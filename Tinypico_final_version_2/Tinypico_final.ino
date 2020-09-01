@@ -20,7 +20,7 @@ const char* ssid = "VALIMAR CLUB";
 const char* password = "PUBG123319";
 
 //Your Domain name with URL path or IP address with path
-const char* serverName = "http://iomt-uci.ngrok.io/patient-connect?edgeId=1";
+const char* serverName = "http://iomt-uci.ngrok.io/patient-connect?edgeId=3";
 
 // milliseconds, will quickly become a bigger number than can be stored in an int.
 unsigned long lastTime = 0;
